@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// わんわんわんわんわん
+
 public class Player : MonoBehaviour
 {
     //=======================================================
