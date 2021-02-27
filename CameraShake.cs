@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//カメラシェイェイク
 public class CameraShake : MonoBehaviour
 {
     public void Shake(float duration, float magnitude)
